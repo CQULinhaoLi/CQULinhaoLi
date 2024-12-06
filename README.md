@@ -2,6 +2,7 @@
 - 👀 I’m interested in multi-source information fusion & evidence theory, and its applicaions in AI 
 - 🌱 I’m currently learning advanced AI techniques, deep learning frameworks, and their applications in decision-making under uncertainty.
 - 💞️ I’m looking to collaborate on AI research projects, especially in multi-modal, multi-sensor and so on.
+- 📫 How to reach me: lilinhao35@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring the real-world applications of AI.
 
