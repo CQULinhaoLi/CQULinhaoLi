@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @CQULinhaoLi
-- 👀 I’m interested in multi-source information fusion & evidence theory, and its applicaions in AI 
-- 🌱 I’m currently learning advanced AI techniques, deep learning frameworks, and their applications in decision-making under uncertainty.
-- 💞️ I’m looking to collaborate on AI research projects, especially in multi-modal, multi-sensor and so on.
-- 📫 How to reach me: lilinhao35@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring the real-world applications of AI.
+### Hi, I'm Klay 👋
+
+I'm a Data Science student at **Chongqing University** (2022–2026 expected) 
+
+**Research Interests:** Machine Learning, Deep Learning, Multimodal, Uncertainty Modeling
+
+I'm looking for RA internships and 2026 Fall Ph.D. opportunities.
+
 
 <!---
 CQULinhaoLi/CQULinhaoLi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
