@@ -2,9 +2,9 @@
 
 I'm a Data Science student at **Chongqing University** (2022–2026 expected) 
 
-**Research Interests:** Machine Learning, Deep Learning, Multimodal, Uncertainty Modeling
+**Research Interests:** AI for healthcare, Multimodal, Uncertainty
 
-I'm looking for RA internships and 2026 Fall Ph.D. opportunities.
+I'm looking for 2026 Fall Ph.D. opportunities.
 
 
 <!---
